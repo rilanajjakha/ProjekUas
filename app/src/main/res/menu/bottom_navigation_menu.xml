@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home_selector" />
+
+    <item
+        android:id="@+id/CardFragment"
+        android:title="Card"
+        android:icon="@drawable/card_selector" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/profile_selector"/>
+</menu>
